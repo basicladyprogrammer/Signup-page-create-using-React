@@ -2,6 +2,7 @@ import './App.css';
 import profile from "./images/a.png";
 import email from "./images/email.jpg";
 import pass from "./images/pass.png";
+
 function App() {
   return (
     <div className="main">
