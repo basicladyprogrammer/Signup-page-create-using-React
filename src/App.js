@@ -10,7 +10,6 @@ function App() {
          <div className="imgs">
            <div className="container-image">
              <img src={profile} alt="profile" className="profile"/>
-
            </div>
 
 
